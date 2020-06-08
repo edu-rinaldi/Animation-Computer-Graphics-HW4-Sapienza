@@ -1,0 +1,10 @@
+/Users/eduardo/Desktop/out/xcode/CMakeFiles/ALL_BUILD.dir
+/Users/eduardo/Desktop/out/xcode/CMakeFiles/ZERO_CHECK.dir
+/Users/eduardo/Desktop/out/xcode/libs/yocto/CMakeFiles/yocto.dir
+/Users/eduardo/Desktop/out/xcode/libs/yocto_particle/CMakeFiles/yocto_particle.dir
+/Users/eduardo/Desktop/out/xcode/libs/yocto_gui/CMakeFiles/yocto_gui.dir
+/Users/eduardo/Desktop/out/xcode/libs/yocto_gui/glfw/CMakeFiles/ALL_BUILD.dir
+/Users/eduardo/Desktop/out/xcode/libs/yocto_gui/glfw/CMakeFiles/ZERO_CHECK.dir
+/Users/eduardo/Desktop/out/xcode/libs/yocto_gui/glfw/src/CMakeFiles/glfw.dir
+/Users/eduardo/Desktop/out/xcode/apps/yparticletrace/CMakeFiles/yparticletrace.dir
+/Users/eduardo/Desktop/out/xcode/apps/yparticleviews/CMakeFiles/yparticleviews.dir
